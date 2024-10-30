@@ -1,0 +1,30 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de ambiente virtual
+venv/
+
+results/
+
+# Arquivos compilados
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de banco de dados
+*.db
+
+# Diretórios de build e dist do PyInstaller
+build/
+dist/
+
+# Arquivos do PyCharm
+.idea/
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/

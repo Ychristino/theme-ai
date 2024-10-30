@@ -1,0 +1,177 @@
+{
+  "casos_suporte": [
+    {
+      "token_assuntos": [
+        "eSocial",
+        "envio de evento"
+      ],
+      "texto": "Estamos enfrentando problemas com o envio de eventos eSocial. Vários usuários relataram que os eventos não estão sendo processados corretamente. Nossa equipe recomenda que verifiquem as configurações de integração e que enviem um chamado com detalhes sobre o erro encontrado."
+    },
+    {
+      "token_assuntos": [
+        "eSocial",
+        "envio de evento"
+      ],
+      "texto": "Notas que os eventos de admissão gerados até a data de 01/01/1980 não forma enviados... talves seja porque nem tinha internet direito, ainda menos esocial."
+    },
+    {
+      "token_assuntos": [
+        "eSocial",
+        "retorno de evento"
+      ],
+      "texto": "Os eventos enviados ao eSocial estão retornando com erro do governo. Inconsistência dos dados de envio."
+    },
+    {
+      "token_assuntos": [
+        "eSocial",
+        "retorno de evento"
+      ],
+      "texto": "O retorno do governo sobre os eventos enviados estão falando que tem inconsistência dos dados. Revisei as coisas do empregado mas não consegui entender qual o problema dos eventos."
+    },
+    {
+      "token_assuntos": [
+        "eSocial"
+      ],
+      "texto": "Não sei em qual parte o eSocial está caindo... Verifiquei os eventos gerados e parecem corretos, mas não consigo encontrar retorno do governo? Sabem dizer se o evento chegou a ser processado e enviado? ou o erro se dá pelo retorno que não foi recebido?"
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "folha de pagamento"
+      ],
+      "texto": "Houve um aumento nas reclamações sobre erros no cálculo da folha de pagamento. Os usuários devem revisar os dados de entrada e enviar um chamado caso encontrem inconsistências. A equipe está analisando os parâmetros de cálculo para identificar possíveis falhas."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "folha de pagamento",
+        "performance"
+      ],
+      "texto": "Notei que o processo da folha está demorando mais do que o normal... alguns processos estão levando mais de 1 hora."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "folha de pagamento"
+      ],
+      "texto": "Não estou conseguindo processar a folha do empregado. O cálculo está sendo encerrado com erro, mas não tem nada no visualizador nem no Log."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "folha de pagamento"
+      ],
+      "texto": "Valor incorretos das verbas de pagamento. a 0010 está demonstrando de forma incorreta o valor de horas do empregado. Deveria apontar 220, mas está colocando 10."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "folha de pagamento"
+      ],
+      "texto": "O cálculo não está apresentando nenhum valor nos códigos de informação"
+    },
+    {
+      "token_assuntos": [
+        "cadastro",
+        "dados inválidos"
+      ],
+      "texto": "Diversos usuários estão encontrando dificuldades ao tentar realizar o cadastro de funcionários. Os erros apresentados incluem dados inválidos ou campos obrigatórios não preenchidos. Pedimos que todos verifiquem os dados inseridos e, se o problema persistir, abram um chamado."
+    },
+    {
+      "token_assuntos": [
+        "cadastro",
+        "dados inválidos"
+      ],
+      "texto": "Está sendo possível cadsatrar qualquer coisa no cpf."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "efetividade"
+      ],
+      "texto": "Estamos cientes de um erro relacionado à efetividade das informações enviadas ao eSocial. Os usuários que perceberem que a efetividade não foi registrada corretamente devem contatar o suporte imediatamente para que possamos investigar o caso."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "efetividade",
+        "performance"
+      ],
+      "texto": "O processo da efetividade está demonrando muito."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "efetividade"
+      ],
+      "texto": "Os valores apurados de adicional noturno estão incorretos."
+    },
+    {
+      "token_assuntos": [
+        "calculo",
+        "efetividade"
+      ],
+      "texto": "Horas adicionais erradas"
+    },
+
+    {
+      "token_assuntos": [
+        "calculo",
+        "efetividade"
+      ],
+      "texto": "Hora extra está errada. Devia demonstrar o valor de 10h mas está apontando -4"
+    },
+    {
+      "token_assuntos": [
+        "autenticação",
+        "login",
+        "acesso"
+      ],
+      "texto": "Alguns usuários estão enfrentando dificuldades de acesso ao sistema, com mensagens de erro durante o login. Pedimos que verifiquem suas credenciais e, caso o problema persista, abram um chamado para que possamos ajudar a resolver essa questão."
+    },
+    {
+      "token_assuntos": [
+        "autenticação",
+        "login",
+        "acesso"
+      ],
+      "texto": "Usuário não consegue efetuar login na plataforma."
+    },
+    {
+      "token_assuntos": [
+        "autenticação",
+        "login",
+        "acesso"
+      ],
+      "texto": "Não é possivel fazer a troca de senha"
+    },
+    {
+      "token_assuntos": [
+        "autenticação",
+        "login",
+        "acesso"
+      ],
+      "texto": "Usuário está com a mensagem de sessão expirada e não consegue autenticar de novo"
+    },
+    {
+      "token_assuntos": [
+        "requisição",
+        "gev"
+      ],
+      "texto": "O gev não esta configurado adequadamente e está causando problemas no processo das requisições"
+    },
+    {
+      "token_assuntos": [
+        "requisição"
+      ],
+      "texto": "As requisições da admissão digital não estão sendo concluídas porque falta assinatura de alguma coisa"
+    },
+    {
+      "token_assuntos": [
+        "requisição",
+        "gev"
+      ],
+      "texto": "Os processos cadastrados não estão obedecendo o gev cadastrado do cliente. Asssim, está faltando etapas para o processo da requisição"
+    }
+  ]
+}
